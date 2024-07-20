@@ -20,4 +20,10 @@ This application helps you manage and track issues efficiently.
 ## Technologies Used
 - **Next.js**: A React framework for building server-side rendered and static web applications.
 - **TypeScript**: A typed superset of JavaScript that compiles to plain JavaScript.
+- **Prisma**: A modern database toolkit to query, migrate, and model data in your application.
+- **MySQL**: A relational database management system for storing application data.
 - **Radix UI**: A library of unstyled, accessible UI components for building high-quality web interfaces.
+- **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
+- **NextAuth**: An authentication solution for Next.js applications supporting multiple providers.
+- **Axios**: A promise-based HTTP client for making requests to the server.
+- **Zod**: A TypeScript-first schema declaration and validation library.
